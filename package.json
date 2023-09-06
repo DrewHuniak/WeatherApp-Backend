@@ -2,7 +2,7 @@
   "name": "weather",
   "version": "1.0.0",
   "description": "App to see the weather based on location.",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "/test"
   },
