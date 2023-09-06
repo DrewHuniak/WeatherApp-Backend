@@ -1,10 +1,11 @@
 {
-  "name": "weather",
+  "name": "WeatherApp/Backend",
   "version": "1.0.0",
   "description": "App to see the weather based on location.",
   "main": "server.js",
   "scripts": {
-    "test": "/test"
+    "test": "/test",
+    "start": "node server.js"
   },
   "author": "Drew Huniak",
   "license": "ISC",
