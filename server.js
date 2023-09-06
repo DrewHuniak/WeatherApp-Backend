@@ -8,7 +8,7 @@ const axios = require('axios');
 const cors = require('cors');
 
 app.use(cors({
-    origin: 'http://localhost:3000'
+    origin: 'https://weather-app-production-7322.up.railway.app'
 }));
 
 //Defining a route example
